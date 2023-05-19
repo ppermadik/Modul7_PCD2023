@@ -1,0 +1,5 @@
+Lakukanlah proses morfologi citra pada gambar tersebut (erosi, dilasi, opening, dan
+closing) dengan kernel berukuran 5 x 5 (semua nilai di dalamnya adalah 1)!
+
+SOAL TAMBAHAN (OPSIONAL)
+lakukanlah proses morfologi citra jenis gradien morfologi pada citra dengan kernel yang sama
